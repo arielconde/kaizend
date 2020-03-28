@@ -1,4 +1,4 @@
-# PythonPH Kainzend Exercises
+# PythonPH Kainzend Sessions
 
 This repository contains the examples and exercises for PythonPH Kainzend sessions.
 To run the scripts make sure to create a virtual environment that runs Python 3.x
